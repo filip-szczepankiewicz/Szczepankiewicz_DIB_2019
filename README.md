@@ -14,6 +14,6 @@ F Szczepankiewicz, S Hoge, C-F Westin. Linear, planar and spherical tensor-value
 This is an open source repository that supplies diffusion-MRI data with tensor-valued diffusion encoding. Data is available in a healthy human brain in vivo as well as water, oil and liquid crystal phantoms. The repository also contains detailed information and resources concerning the experiment and its design.
 
 ### Related resources
-[MD-dMRI data analysis tools](https://github.com/markus-nilsson/md-dmri)  
+[MD-dMRI framework](https://github.com/markus-nilsson/md-dmri)  
 [Gradient waveform optimization tools](https://github.com/jsjol/NOW)  
-[DICOM header extraction tools](https://github.com/filip-szczepankiewicz/fwf_header_tools)
+[FWF header extraction tools](https://github.com/filip-szczepankiewicz/fwf_header_tools)
