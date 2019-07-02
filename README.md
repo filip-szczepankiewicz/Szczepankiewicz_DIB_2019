@@ -16,6 +16,6 @@ This is an open source repository that supplies diffusion-MRI data with tensor-v
 * A subset of the data is matched with respect to the diffusion time spectrum for analysis of models of diffusion time dependency.
 
 ### Reference
-[F Szczepankiewicz, S Hoge, C-F Westin. Linear, planar and spherical tensor-valued diffusion MRI data by free waveform encoding in healthy brain, water, oil and liquid crystals. Data in Brief (2019), DOI: https://doi.org/10.1016/j.dib.2019.104208](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub)
+[F Szczepankiewicz, S Hoge, C-F Westin. Linear, planar and spherical tensor-valued diffusion MRI data by free waveform encoding in healthy brain, water, oil and liquid crystals. Data in Brief (2019), DOI: https://doi.org/10.1016/j.dib.2019.104208](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub)  
 
-### See related resources at the [FWF sequnce GIT repository](https://github.com/filip-szczepankiewicz/fwf_seq_resources)
+**See related resources at the [FWF sequence GIT repository](https://github.com/filip-szczepankiewicz/fwf_seq_resources)**
