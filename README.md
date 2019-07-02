@@ -1,10 +1,10 @@
 ## Linear, planar and spherical tensor-valued diffusion MRI data by free waveform encoding in healthy brain, water, oil and liquid crystals
-Filip Szczepankiewicz, Scott Hoge, Carl-Fredrik Westin
+Filip Szczepankiewicz*, Scott Hoge, Carl-Fredrik Westin
 
 Radiology, Brigham and Women’s Hospital, Boston, MA, US  
 Harvard Medical School, Boston, MA, US  
 
-Corresponding author:  
+**\*Corresponding author:**  
 Filip Szczepankiewicz (fszczepankiewicz@bwh.harvard.edu)
 
 ### Description
