@@ -15,7 +15,7 @@ path_to_out_folder = [fileparts(path_to_dib_nii) filesep 'QTI'];
 s = mdm_s_from_nii(path_to_dib_nii);
 
 % Fit QTI
-dtd_covariance_pipe(s, path_to_output_folder);
+dtd_covariance_pipe(s, path_to_out_folder);
 
 % The fit outputs many different variants of the parameters (not all parameters are unique).
 % Read about the basic theory here: https://www.sciencedirect.com/science/article/pii/S1053811916001488?via%3Dihub
