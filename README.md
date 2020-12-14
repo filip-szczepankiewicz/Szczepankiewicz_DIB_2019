@@ -7,7 +7,7 @@ Harvard Medical School, Boston, MA, US
 **\*Corresponding author:**  
 Filip Szczepankiewicz (fszczepankiewicz@bwh.harvard.edu)
 
-### Description
+### Overview
 This is an open source repository that supplies diffusion-MRI data with tensor-valued diffusion encoding. Data is available in a healthy human brain in vivo as well as water, oil and liquid crystal phantoms. The repository also contains detailed information and resources concerning the experiment and its design.
 
 **Value of the data:**  
@@ -19,7 +19,8 @@ This is an open source repository that supplies diffusion-MRI data with tensor-v
 * A brief example of how to calculate QTI parameters from data (based on the merged MD-MRI fromat) can be found in the examples folder.  
 * A throrough, step-by-step example of how to use the data in the Multidimensional Diffusion MRI framework, including motion correction, parameter fitting, and registration with anatomical sequences, can be found [here](https://github.com/filip-szczepankiewicz/md-dmri/tree/master/examples/pipeline).
 
-### Reference
+### Reference and details
+If this resource was useful for you, please consider citeing the Data in Brief paper connected to this project:
 [F Szczepankiewicz, S Hoge, C-F Westin. Linear, planar and spherical tensor-valued diffusion MRI data by free waveform encoding in healthy brain, water, oil and liquid crystals. Data in Brief (2019), DOI: https://doi.org/10.1016/j.dib.2019.104208](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub)  
 
 ### Related resources can be found at the [FWF sequence GIT repository](https://github.com/filip-szczepankiewicz/fwf_seq_resources)
