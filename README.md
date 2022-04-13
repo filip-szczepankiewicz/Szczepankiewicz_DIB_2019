@@ -5,7 +5,7 @@ Radiology, Brigham and Women’s Hospital, Boston, MA, US
 Harvard Medical School, Boston, MA, US  
 
 **\*Corresponding author:**  
-Filip Szczepankiewicz (fszczepankiewicz@bwh.harvard.edu)
+Filip Szczepankiewicz (filip.szczepankiewicz@med.lu.se)
 
 ### Overview
 This is an open source repository that supplies diffusion-MRI data with tensor-valued diffusion encoding. Data is available in a healthy human brain in vivo as well as water, oil and liquid crystal phantoms. The repository also contains detailed information and resources concerning the experiment and its design.
