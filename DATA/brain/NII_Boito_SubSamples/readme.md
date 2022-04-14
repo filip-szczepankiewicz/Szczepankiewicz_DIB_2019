@@ -2,6 +2,9 @@
 The data in this folder were obtained by subsampling the tensor-encoded diffusion MRI human brain dataset originally published by [Szczepankiewicz et al.](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub). Each subset contains the number of diffusion MRI measurements and the type of tensor encoding indicated in file name. 
 For example, 'DiB_217_lte_pte_ste' indicates that the dataset contains 217 diffusion measurements acquired with linear, planar and spherical b-tensor encoding (LTE, PTE, and STE).
 
+## Alternative download
+If github is not working/too slow, try downloading the entire folder [here](https://lu.box.com/s/qj45tn8ubw70vs3rxa9vv2ofnjcpl53b).
+
 Informations about the type of encoding, b-values, and samples per shell retained in each dataset can be found in the following table: 
 
 | dataset  | encoding | b-value [um^2/ms]     |  samples per shell |
