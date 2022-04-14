@@ -1,6 +1,10 @@
 
-## Alternative download
-If github is not working/too slow, try downloading the entire folder from [Lund University BOX](https://lu.box.com/s/qj45tn8ubw70vs3rxa9vv2ofnjcpl53b).
+## Download folder
+Please use the GitHub beveloper mode (press `.`) to download this folder.
+
+Alternatively, use this link to download the data via a [GitHub tool](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Ffilip-szczepankiewicz%2FSzczepankiewicz_DIB_2019%2Ftree%2Fmaster%2FDATA%2Fbrain%2FNII_Boito_SubSamples%2FDiB_217_lte_pte_ste).
+
+If the above methods fail, try downloading the entire folder from [Lund University BOX](https://lu.box.com/s/qj45tn8ubw70vs3rxa9vv2ofnjcpl53b).
 
 ## Data description
 The data in this folder were obtained by subsampling the tensor-encoded diffusion MRI human brain dataset originally published by [Szczepankiewicz et al.](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub). Each subset contains the number of diffusion MRI measurements and the type of tensor encoding indicated in file name. 
