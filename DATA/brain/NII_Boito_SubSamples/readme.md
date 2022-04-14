@@ -4,7 +4,7 @@ Please use the GitHub beveloper mode (press `.`) to download this folder.
 
 Alternatively, use [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples) to download the data via DownGit by [Minhas Kamal](https://github.com/MinhasKamal).
 
-If the above methods fail, try downloading the entire folder from [Lund University BOX](https://lu.box.com/s/qj45tn8ubw70vs3rxa9vv2ofnjcpl53b).
+If the above methods fail, you can download the data from my [Lund University BOX](https://lu.box.com/s/qj45tn8ubw70vs3rxa9vv2ofnjcpl53b).
 
 ## Data description
 The data in this folder were obtained by subsampling the tensor-encoded diffusion MRI human brain dataset originally published by [Szczepankiewicz et al.](https://www.sciencedirect.com/science/article/pii/S2352340919305621?via%3Dihub) Each subset contains the number of diffusion MRI measurements and the type of tensor encoding indicated in file name. 
