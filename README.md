@@ -16,7 +16,7 @@ This is an open source repository that supplies diffusion-MRI data with tensor-v
 * A subset of the data is matched with respect to the diffusion time spectrum for analysis of models of diffusion time dependency.
 
 ### Download specific data packages
-Apart from developer mode (press '.'), GitHub does not have straightforward support for downloading of individual folders. Therefore, the following links (powered by [DownGit](https://github.com/MinhasKamal/DownGit)) enable download of specific folders.
+Apart from developer mode (press `.`), GitHub does not have straightforward support for downloading of individual folders. Therefore, the following links (powered by [DownGit](https://github.com/MinhasKamal/DownGit)) enable download of specific folders.
 * Brain
     * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/DICOM_zip&fileName=FSzDIB19_Brain_DICOM)
     * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/MD-dMRI&fileName=FSzDIB19_Brain_mddMRI)
