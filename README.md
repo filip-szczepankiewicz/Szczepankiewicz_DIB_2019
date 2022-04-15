@@ -15,16 +15,25 @@ This is an open source repository that supplies diffusion-MRI data with tensor-v
 * The data includes repeated sampling of spherical b-tensors for analysis of noise characteristics.
 * A subset of the data is matched with respect to the diffusion time spectrum for analysis of models of diffusion time dependency.
 
-### Download data packages
-Apart from developer mode (press '.'), GitHub does not have straightforward support for downloading of individual folders. Therefore, the following links (powered by DownGit) enable download of specific folders.
+### Download specific data packages
+Apart from developer mode (press '.'), GitHub does not have straightforward support for downloading of individual folders. Therefore, the following links (powered by [DownGit](https://github.com/MinhasKamal/DownGit)) enable download of specific folders.
 * Brain
-    * [DICOM (zipped)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/DICOM_zip)
-    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/MD-dMRI)
-    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII)
-    * [NII (Boito Subsamples)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples)
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/DICOM_zip&fileName=FSzDIB19_Brain_DICOM)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/MD-dMRI&fileName=FSzDIB19_Brain_mddMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII&fileName=FSzDIB19_Brain_NII)
+    * [NII (Boito Subsamples)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples&fileName=FSzDIB19_Brain_NII_BoitoSubSamp)
 * Hex
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/DICOM_zip)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/MD-dMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/NII)
 * Oil
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/DICOM_zip)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/MD-dMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/NII)
 * Water
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/DICOM_zip)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/MD-dMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/NII)
 
 ### Example of analysis pipeline
 * A brief example of how to calculate QTI parameters from data (based on the merged MD-MRI fromat) can be found in the examples folder.  
