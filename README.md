@@ -23,17 +23,17 @@ Apart from developer mode (press '.'), GitHub does not have straightforward supp
     * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII&fileName=FSzDIB19_Brain_NII)
     * [NII (Boito Subsamples)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples&fileName=FSzDIB19_Brain_NII_BoitoSubSamp)
 * Hex
-    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/DICOM_zip)
-    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/MD-dMRI)
-    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/NII)
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/DICOM_zip&fileName=FSzDIB19_Hex_DICOM)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/MD-dMRI&fileName=FSzDIB19_Hex_mddMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/hex/NII&fileName=FSzDIB19_Hex_NII)
 * Oil
-    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/DICOM_zip)
-    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/MD-dMRI)
-    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/NII)
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/DICOM_zip&fileName=FSzDIB19_Oil_DICOM)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/MD-dMRI&fileName=FSzDIB19_Oil_mddMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/oil/NII&fileName=FSzDIB19_Oil_NII)
 * Water
-    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/DICOM_zip)
-    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/MD-dMRI)
-    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/NII)
+    * [DICOM](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/DICOM_zip&fileName=FSzDIB19_Water_DICOM)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/MD-dMRI&fileName=FSzDIB19_Water_mddMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/water/NII&fileName=FSzDIB19_Water_NII)
 
 ### Example of analysis pipeline
 * A brief example of how to calculate QTI parameters from data (based on the merged MD-MRI fromat) can be found in the examples folder.  
