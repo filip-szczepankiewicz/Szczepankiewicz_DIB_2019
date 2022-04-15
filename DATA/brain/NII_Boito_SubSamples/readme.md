@@ -1,5 +1,5 @@
 
-## Download folder
+## Download data
 Please use the GitHub beveloper mode (press `.`) to download individual folders.
 
 Alternatively, use [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples) to download the whole folder from GitHub (powered by DownGit by [Minhas Kamal](https://github.com/MinhasKamal)).
