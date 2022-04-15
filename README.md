@@ -15,6 +15,17 @@ This is an open source repository that supplies diffusion-MRI data with tensor-v
 * The data includes repeated sampling of spherical b-tensors for analysis of noise characteristics.
 * A subset of the data is matched with respect to the diffusion time spectrum for analysis of models of diffusion time dependency.
 
+### Download data packages
+Apart from developer mode (press '.'), GitHub does not have straightforward support for downloading of individual folders. Therefore, the following links (powered by DownGit) enable download of specific folders.
+* Brain
+    * [DICOM (zipped)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/DICOM_zip)
+    * [NII (mddMRI format)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/MD-dMRI)
+    * [NII (standard)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII)
+    * [NII (Boito Subsamples)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/filip-szczepankiewicz/Szczepankiewicz_DIB_2019/tree/master/DATA/brain/NII_Boito_SubSamples)
+* Hex
+* Oil
+* Water
+
 ### Example of analysis pipeline
 * A brief example of how to calculate QTI parameters from data (based on the merged MD-MRI fromat) can be found in the examples folder.  
 * A throrough, step-by-step example of how to use the data in the Multidimensional Diffusion MRI framework, including motion correction, parameter fitting, and registration with anatomical sequences, can be found [here](https://github.com/filip-szczepankiewicz/md-dmri/tree/master/examples/pipeline).
