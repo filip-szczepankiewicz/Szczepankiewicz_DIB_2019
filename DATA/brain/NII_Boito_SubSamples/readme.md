@@ -10,7 +10,7 @@ For example, 'DiB_217_lte_pte_ste' indicates that the dataset contains 217 diffu
 
 Informations about the type of encoding, b-values, and samples per shell retained in each dataset can be found in the following table: 
 
-| dataset  | encoding | b-value [um^2/ms]     |  samples per shell |
+| dataset  | encoding | b-value [ms/µm^2]     |  samples per shell |
 |----------|----------|-----------------------|--------------------|
 |  DiB_217 |    LTE   | 0, 0.1, 0.7, 1.4, 2.0 | 13, 10, 10, 16, 46 |
 |  DiB_217 |    PTE   |    0.1, 0.7, 1.4, 2.0 | 10, 10, 16, 46     |
